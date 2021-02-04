@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+.title{
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+  font-style: oblique;
+}
+.red{
+  color: red;
+}
